@@ -77,6 +77,8 @@ streamlit run app.py
 ```
 
 ---
+## 🚀 Live Demo
+https://ai-resume-analyzer-qfkek58xrrtegab8ksgsgb.streamlit.app/
 
 ## 📸 Application Workflow
 
